@@ -1,0 +1,17 @@
+{
+  "name": "jasiel-izaguirre",
+  "version": "1.0.0",
+  "description": "Jasiel's Software Developer Portfolio",
+  "main": "index.js",
+  "homepage": "https://jasiel.dev",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d build",
+    "build": "cp index.html build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
