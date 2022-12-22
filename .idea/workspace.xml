@@ -4,287 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e9e0dc7-2e8a-4b16-9971-a0f1c76fdea9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/bsnav.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/fontawesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/icofont.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/nioicon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/splitting-cells.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/splitting.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Flaticon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Flaticon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Flaticon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Flaticon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Flaticon.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/icofont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/icofont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/icofont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/icofont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/icofont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/themify.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/themify.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/themify.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/themify.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/YTPlayer.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/bsnav.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/count-to.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/fontawesome.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/html5/html5shiv.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/html5/respond.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/isotope.pkgd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery-3.6.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.appear.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.countTo.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.easing.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.magnific-popup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.particles.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/parallax.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/progress-bar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/slick.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/splitting-animation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/splitting.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/typed.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/vendor/jquery-3.3.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/vendor/modernizr-3.6.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/waypoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/wow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CNAME" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/css/all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/css/bsnav.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/css/fontawesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/css/icofont.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/css/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/css/nioicon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/css/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/css/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/css/responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/css/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/css/splitting-cells.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/css/splitting.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/fonts/Flaticon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/fonts/Flaticon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/fonts/Flaticon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/fonts/Flaticon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/fonts/Flaticon.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/fonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/fonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/fonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/fonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/fonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/fonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/fonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/fonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/fonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/fonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/fonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/fonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/fonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/fonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/fonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/fonts/icofont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/fonts/icofont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/fonts/icofont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/fonts/icofont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/fonts/icofont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/fonts/themify.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/fonts/themify.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/fonts/themify.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/fonts/themify.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/js/YTPlayer.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/js/bsnav.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/js/count-to.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/js/fontawesome.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/js/html5/html5shiv.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/js/html5/respond.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/js/isotope.pkgd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/js/jquery-3.6.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/js/jquery.appear.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/js/jquery.countTo.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/js/jquery.easing.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/js/jquery.magnific-popup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/js/jquery.particles.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/js/parallax.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/js/progress-bar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/js/slick.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/js/splitting-animation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/js/splitting.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/js/typed.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/js/vendor/jquery-3.3.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/js/vendor/modernizr-3.6.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/js/waypoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/js/wow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/img/about-me.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/img/blog/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/img/blog/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/img/blog/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/img/client/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/img/client/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/img/client/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/img/header-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/img/hire-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/img/portfolio/biblionario.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/img/portfolio/converge.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/img/portfolio/doolarfy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/img/portfolio/kleio.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/img/portfolio/krack.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/img/portfolio/lestgohunting.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/img/portfolio/letsgoshooting.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/img/portfolio/lookerfy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/img/portfolio/sts-app.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/img/portfolio/sts-web.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/img/portfolio/tve.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/img/portfolio/ubicast.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/img/portfolio/verbo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/img/profile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/img/testicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/scss/component/_404.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/scss/component/_about.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/scss/component/_blog.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/scss/component/_breadcrumb.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/scss/component/_contact.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/scss/component/_exp.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/scss/component/_faq.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/scss/component/_feed.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/scss/component/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/scss/component/_fun.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/scss/component/_hero.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/scss/component/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/scss/component/_nav.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/scss/component/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/scss/component/_price.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/scss/component/_progress-bar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/scss/component/_promo.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/scss/component/_service.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/scss/component/_sidebar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/scss/component/_single.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/scss/component/_theme-default.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/scss/component/_typography.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/scss/component/_variable.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/scss/component/_work.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/scss/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/about-me.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/client/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/client/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/client/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/header-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/hire-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/biblionario.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/converge.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/doolarfy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/kleio.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/krack.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/lestgohunting.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/letsgoshooting.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/lookerfy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/sts-app.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/sts-web.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/tve.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/ubicast.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/verbo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/profile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/testicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/contact.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/component/_404.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/component/_about.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/component/_blog.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/component/_breadcrumb.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/component/_contact.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/component/_exp.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/component/_faq.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/component/_feed.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/component/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/component/_fun.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/component/_hero.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/component/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/component/_nav.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/component/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/component/_price.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/component/_progress-bar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/component/_promo.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/component/_service.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/component/_sidebar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/component/_single.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/component/_theme-default.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/component/_typography.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/component/_variable.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/component/_work.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    <list default="true" id="2e9e0dc7-2e8a-4b16-9971-a0f1c76fdea9" name="Changes" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/bsnav.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/bsnav.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/assets/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/css/bsnav.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/assets/css/bsnav.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/assets/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -293,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -305,23 +37,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/jaimbox/Documents/PROYECTOS/Jasiel-Izaguirre/source/jasiel-izaguirre/img",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jaimbox/Documents/PROYECTOS/Jasiel-Izaguirre/source/jasiel-izaguirre/img&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img" />
@@ -339,8 +70,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671547612346</updated>
-      <workItem from="1671547614178" duration="27190000" />
+      <workItem from="1671547614178" duration="28413000" />
+      <workItem from="1671652967109" duration="290000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1671644768512</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671644768512</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -348,5 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
